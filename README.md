@@ -1,6 +1,6 @@
 # 🚀 Shadowrocket configuration file
 
-This project contains a Shadowrocket configuration file designed to achieve the best possible speeds for Russian websites with elimination of DNS leaks, all while preserving smooth operation of Apple's system features.
+This project contains a Shadowrocket configuration file for iOS, macOS and iPadOS designed to achieve the best possible speeds for Russian websites with elimination of DNS leaks, all while preserving smooth operation of Apple's system features.
 
 ## 📚 Sources
 - blackmatrix7
